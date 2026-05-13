@@ -1,0 +1,1062 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Libro de arte coquinaria</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://fromthepage.com/iiif/32039996/manifest" xml:id="facs-1">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="2507" lry="3721" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0001">
+			<label>Page 1</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0001"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0002">
+			<label>Page 2</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0002"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="2603" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0003">
+			<label>Page 3</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0003"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0004">
+			<label>Page 4</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0004"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="2627" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0005">
+			<label>Page 5</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0005"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0006">
+			<label>Page 6</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0006"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="2626" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0007">
+			<label>Page 7</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0007"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0008">
+			<label>Page 8</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0008"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="2567" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0009">
+			<label>Page 9</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0009"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0010">
+			<label>Page 10</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0010"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0011">
+			<label>Page 11</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0011"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0012">
+			<label>Page 12</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0012"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0013">
+			<label>Page 13</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0013"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0014">
+			<label>Page 14</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0014"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0015">
+			<label>Page 15</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0015"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0016">
+			<label>Page 16</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0016"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0017">
+			<label>Page 17</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0017"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0018">
+			<label>Page 18</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0018"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0019">
+			<label>Page 19</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0019"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0020">
+			<label>Page 20</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0020"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="2567" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0021">
+			<label>Page 21</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0021"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0022">
+			<label>Page 22</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0022"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="2567" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0023">
+			<label>Page 23</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0023"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0024">
+			<label>Page 24</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0024"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="2567" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0025">
+			<label>Page 25</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0025"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0026">
+			<label>Page 26</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0026"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="2567" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0027">
+			<label>Page 27</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0027"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0028">
+			<label>Page 28</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0028"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="2519" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0029">
+			<label>Page 29</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0029"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="2451" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0030">
+			<label>Page 30</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0030"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="2519" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0031">
+			<label>Page 31</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0031"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="2451" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0032">
+			<label>Page 32</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0032"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="2519" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0033">
+			<label>Page 33</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0033"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="2451" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0034">
+			<label>Page 34</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0034"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="2519" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0035">
+			<label>Page 35</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0035"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="2451" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0036">
+			<label>Page 36</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0036"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="2519" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0037">
+			<label>Page 37</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0037"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="2403" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0038">
+			<label>Page 38</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0038"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="2519" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0039">
+			<label>Page 39</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0039"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="2403" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0040">
+			<label>Page 40</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0040"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="2519" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0041">
+			<label>Page 41</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0041"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="2451" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0042">
+			<label>Page 42</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0042"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="2519" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0043">
+			<label>Page 43</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0043"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="2403" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0044">
+			<label>Page 44</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0044"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0045">
+			<label>Page 45</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0045"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="2466" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0046">
+			<label>Page 46</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0046"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0047">
+			<label>Page 47</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0047"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="2489" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0048">
+			<label>Page 48</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0048"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0049">
+			<label>Page 49</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0049"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="2489" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0050">
+			<label>Page 50</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0050"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0051">
+			<label>Page 51</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0051"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="2489" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0052">
+			<label>Page 52</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0052"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0053">
+			<label>Page 53</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0053"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="2489" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0054">
+			<label>Page 54</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0054"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0055">
+			<label>Page 55</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0055"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="2489" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0056">
+			<label>Page 56</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0056"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0057">
+			<label>Page 57</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0057"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="2489" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0058">
+			<label>Page 58</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0058"/>
+		</surface>
+		<surface xml:id="f058" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0059">
+			<label>Page 59</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0059"/>
+		</surface>
+		<surface xml:id="f059" ulx="0" uly="0" lrx="2489" lry="3721" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0060">
+			<label>Page 60</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0060"/>
+		</surface>
+		<surface xml:id="f060" ulx="0" uly="0" lrx="2483" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0061">
+			<label>Page 61</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0061"/>
+		</surface>
+		<surface xml:id="f061" ulx="0" uly="0" lrx="2549" lry="3721" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0062">
+			<label>Page 62</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0062"/>
+		</surface>
+		<surface xml:id="f062" ulx="0" uly="0" lrx="2516" lry="3636" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0063">
+			<label>Page 63</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0063"/>
+		</surface>
+		<surface xml:id="f063" ulx="0" uly="0" lrx="2559" lry="3745" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0064">
+			<label>Page 64</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0064"/>
+		</surface>
+		<surface xml:id="f064" ulx="0" uly="0" lrx="2469" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0065">
+			<label>Page 65</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0065"/>
+		</surface>
+		<surface xml:id="f065" ulx="0" uly="0" lrx="2559" lry="3745" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0066">
+			<label>Page 66</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0066"/>
+		</surface>
+		<surface xml:id="f066" ulx="0" uly="0" lrx="2469" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0067">
+			<label>Page 67</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0067"/>
+		</surface>
+		<surface xml:id="f067" ulx="0" uly="0" lrx="2595" lry="3745" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0068">
+			<label>Page 68</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0068"/>
+		</surface>
+		<surface xml:id="f068" ulx="0" uly="0" lrx="2469" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0069">
+			<label>Page 69</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0069"/>
+		</surface>
+		<surface xml:id="f069" ulx="0" uly="0" lrx="2548" lry="3684" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0070">
+			<label>Page 70</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0070"/>
+		</surface>
+		<surface xml:id="f070" ulx="0" uly="0" lrx="2469" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0071">
+			<label>Page 71</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0071"/>
+		</surface>
+		<surface xml:id="f071" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0072">
+			<label>Page 72</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0072"/>
+		</surface>
+		<surface xml:id="f072" ulx="0" uly="0" lrx="2480" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0073">
+			<label>Page 73</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0073"/>
+		</surface>
+		<surface xml:id="f073" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0074">
+			<label>Page 74</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0074"/>
+		</surface>
+		<surface xml:id="f074" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0075">
+			<label>Page 75</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0075"/>
+		</surface>
+		<surface xml:id="f075" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0076">
+			<label>Page 76</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0076"/>
+		</surface>
+		<surface xml:id="f076" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0077">
+			<label>Page 77</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0077"/>
+		</surface>
+		<surface xml:id="f077" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0078">
+			<label>Page 78</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0078"/>
+		</surface>
+		<surface xml:id="f078" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0079">
+			<label>Page 79</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0079"/>
+		</surface>
+		<surface xml:id="f079" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0080">
+			<label>Page 80</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0080"/>
+		</surface>
+		<surface xml:id="f080" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0081">
+			<label>Page 81</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0081"/>
+		</surface>
+		<surface xml:id="f081" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0082">
+			<label>Page 82</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0082"/>
+		</surface>
+		<surface xml:id="f082" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0083">
+			<label>Page 83</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0083"/>
+		</surface>
+		<surface xml:id="f083" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0084">
+			<label>Page 84</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0084"/>
+		</surface>
+		<surface xml:id="f084" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0085">
+			<label>Page 85</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0085"/>
+		</surface>
+		<surface xml:id="f085" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0086">
+			<label>Page 86</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0086"/>
+		</surface>
+		<surface xml:id="f086" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0087">
+			<label>Page 87</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0087"/>
+		</surface>
+		<surface xml:id="f087" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0088">
+			<label>Page 88</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0088"/>
+		</surface>
+		<surface xml:id="f088" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0089">
+			<label>Page 89</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0089"/>
+		</surface>
+		<surface xml:id="f089" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0090">
+			<label>Page 90</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0090"/>
+		</surface>
+		<surface xml:id="f090" ulx="0" uly="0" lrx="2409" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0091">
+			<label>Page 91</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0091"/>
+		</surface>
+		<surface xml:id="f091" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0092">
+			<label>Page 92</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0092"/>
+		</surface>
+		<surface xml:id="f092" ulx="0" uly="0" lrx="2408" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0093">
+			<label>Page 93</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0093"/>
+		</surface>
+		<surface xml:id="f093" ulx="0" uly="0" lrx="2547" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0094">
+			<label>Page 94</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0094"/>
+		</surface>
+		<surface xml:id="f094" ulx="0" uly="0" lrx="2409" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0095">
+			<label>Page 95</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0095"/>
+		</surface>
+		<surface xml:id="f095" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0096">
+			<label>Page 96</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0096"/>
+		</surface>
+		<surface xml:id="f096" ulx="0" uly="0" lrx="2409" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0097">
+			<label>Page 97</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0097"/>
+		</surface>
+		<surface xml:id="f097" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0098">
+			<label>Page 98</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0098"/>
+		</surface>
+		<surface xml:id="f098" ulx="0" uly="0" lrx="2409" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0099">
+			<label>Page 99</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0099"/>
+		</surface>
+		<surface xml:id="f099" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0100">
+			<label>Page 100</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0100"/>
+		</surface>
+		<surface xml:id="f100" ulx="0" uly="0" lrx="2409" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0101">
+			<label>Page 101</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0101"/>
+		</surface>
+		<surface xml:id="f101" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0102">
+			<label>Page 102</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0102"/>
+		</surface>
+		<surface xml:id="f102" ulx="0" uly="0" lrx="2432" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0103">
+			<label>Page 103</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0103"/>
+		</surface>
+		<surface xml:id="f103" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0104">
+			<label>Page 104</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0104"/>
+		</surface>
+		<surface xml:id="f104" ulx="0" uly="0" lrx="2435" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0105">
+			<label>Page 105</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0105"/>
+		</surface>
+		<surface xml:id="f105" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0106">
+			<label>Page 106</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0106"/>
+		</surface>
+		<surface xml:id="f106" ulx="0" uly="0" lrx="2435" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0107">
+			<label>Page 107</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0107"/>
+		</surface>
+		<surface xml:id="f107" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0108">
+			<label>Page 108</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0108"/>
+		</surface>
+		<surface xml:id="f108" ulx="0" uly="0" lrx="2435" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0109">
+			<label>Page 109</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0109"/>
+		</surface>
+		<surface xml:id="f109" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0110">
+			<label>Page 110</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0110"/>
+		</surface>
+		<surface xml:id="f110" ulx="0" uly="0" lrx="2387" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0111">
+			<label>Page 111</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0111"/>
+		</surface>
+		<surface xml:id="f111" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0112">
+			<label>Page 112</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0112"/>
+		</surface>
+		<surface xml:id="f112" ulx="0" uly="0" lrx="2387" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0113">
+			<label>Page 113</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0113"/>
+		</surface>
+		<surface xml:id="f113" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0114">
+			<label>Page 114</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0114"/>
+		</surface>
+		<surface xml:id="f114" ulx="0" uly="0" lrx="2387" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0115">
+			<label>Page 115</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0115"/>
+		</surface>
+		<surface xml:id="f115" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0116">
+			<label>Page 116</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0116"/>
+		</surface>
+		<surface xml:id="f116" ulx="0" uly="0" lrx="2387" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0117">
+			<label>Page 117</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0117"/>
+		</surface>
+		<surface xml:id="f117" ulx="0" uly="0" lrx="2595" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0118">
+			<label>Page 118</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0118"/>
+		</surface>
+		<surface xml:id="f118" ulx="0" uly="0" lrx="2387" lry="3636" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0119">
+			<label>Page 119</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0119"/>
+		</surface>
+		<surface xml:id="f119" ulx="0" uly="0" lrx="2655" lry="3685" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0120">
+			<label>Page 120</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0120"/>
+		</surface>
+		<surface xml:id="f120" ulx="0" uly="0" lrx="2387" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0121">
+			<label>Page 121</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0121"/>
+		</surface>
+		<surface xml:id="f121" ulx="0" uly="0" lrx="2655" lry="3721" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0122">
+			<label>Page 122</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0122"/>
+		</surface>
+		<surface xml:id="f122" ulx="0" uly="0" lrx="2387" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0123">
+			<label>Page 123</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0123"/>
+		</surface>
+		<surface xml:id="f123" ulx="0" uly="0" lrx="2655" lry="3721" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0124">
+			<label>Page 124</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0124"/>
+		</surface>
+		<surface xml:id="f124" ulx="0" uly="0" lrx="2363" lry="3637" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0125">
+			<label>Page 125</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0125"/>
+		</surface>
+		<surface xml:id="f125" ulx="0" uly="0" lrx="2583" lry="3733" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0126">
+			<label>Page 126</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0126"/>
+		</surface>
+		<surface xml:id="f126" ulx="0" uly="0" lrx="2418" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0127">
+			<label>Page 127</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0127"/>
+		</surface>
+		<surface xml:id="f127" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0128">
+			<label>Page 128</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0128"/>
+		</surface>
+		<surface xml:id="f128" ulx="0" uly="0" lrx="2358" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0129">
+			<label>Page 129</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0129"/>
+		</surface>
+		<surface xml:id="f129" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0130">
+			<label>Page 130</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0130"/>
+		</surface>
+		<surface xml:id="f130" ulx="0" uly="0" lrx="2357" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0131">
+			<label>Page 131</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0131"/>
+		</surface>
+		<surface xml:id="f131" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0132">
+			<label>Page 132</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0132"/>
+		</surface>
+		<surface xml:id="f132" ulx="0" uly="0" lrx="2357" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0133">
+			<label>Page 133</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0133"/>
+		</surface>
+		<surface xml:id="f133" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0134">
+			<label>Page 134</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0134"/>
+		</surface>
+		<surface xml:id="f134" ulx="0" uly="0" lrx="2357" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0135">
+			<label>Page 135</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0135"/>
+		</surface>
+		<surface xml:id="f135" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0136">
+			<label>Page 136</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0136"/>
+		</surface>
+		<surface xml:id="f136" ulx="0" uly="0" lrx="2357" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0137">
+			<label>Page 137</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0137"/>
+		</surface>
+		<surface xml:id="f137" ulx="0" uly="0" lrx="2631" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0138">
+			<label>Page 138</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0138"/>
+		</surface>
+		<surface xml:id="f138" ulx="0" uly="0" lrx="2418" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0139">
+			<label>Page 139</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0139"/>
+		</surface>
+		<surface xml:id="f139" ulx="0" uly="0" lrx="2631" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0140">
+			<label>Page 140</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0140"/>
+		</surface>
+		<surface xml:id="f140" ulx="0" uly="0" lrx="2377" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0141">
+			<label>Page 141</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0141"/>
+		</surface>
+		<surface xml:id="f141" ulx="0" uly="0" lrx="2631" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0142">
+			<label>Page 142</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0142"/>
+		</surface>
+		<surface xml:id="f142" ulx="0" uly="0" lrx="2401" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0143">
+			<label>Page 143</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0143"/>
+		</surface>
+		<surface xml:id="f143" ulx="0" uly="0" lrx="2631" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0144">
+			<label>Page 144</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0144"/>
+		</surface>
+		<surface xml:id="f144" ulx="0" uly="0" lrx="2401" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0145">
+			<label>Page 145</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0145"/>
+		</surface>
+		<surface xml:id="f145" ulx="0" uly="0" lrx="2631" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0146">
+			<label>Page 146</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0146"/>
+		</surface>
+		<surface xml:id="f146" ulx="0" uly="0" lrx="2401" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0147">
+			<label>Page 147</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0147"/>
+		</surface>
+		<surface xml:id="f147" ulx="0" uly="0" lrx="2631" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0148">
+			<label>Page 148</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0148"/>
+		</surface>
+		<surface xml:id="f148" ulx="0" uly="0" lrx="2401" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0149">
+			<label>Page 149</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0149"/>
+		</surface>
+		<surface xml:id="f149" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0150">
+			<label>Page 150</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0150"/>
+		</surface>
+		<surface xml:id="f150" ulx="0" uly="0" lrx="2401" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0151">
+			<label>Page 151</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0151"/>
+		</surface>
+		<surface xml:id="f151" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0152">
+			<label>Page 152</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0152"/>
+		</surface>
+		<surface xml:id="f152" ulx="0" uly="0" lrx="2413" lry="3672" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0153">
+			<label>Page 153</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0153"/>
+		</surface>
+		<surface xml:id="f153" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0154">
+			<label>Page 154</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0154"/>
+		</surface>
+		<surface xml:id="f154" ulx="0" uly="0" lrx="2353" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0155">
+			<label>Page 155</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0155"/>
+		</surface>
+		<surface xml:id="f155" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0156">
+			<label>Page 156</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0156"/>
+		</surface>
+		<surface xml:id="f156" ulx="0" uly="0" lrx="2353" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0157">
+			<label>Page 157</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0157"/>
+		</surface>
+		<surface xml:id="f157" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0158">
+			<label>Page 158</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0158"/>
+		</surface>
+		<surface xml:id="f158" ulx="0" uly="0" lrx="2353" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0159">
+			<label>Page 159</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0159"/>
+		</surface>
+		<surface xml:id="f159" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0160">
+			<label>Page 160</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0160"/>
+		</surface>
+		<surface xml:id="f160" ulx="0" uly="0" lrx="2317" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0161">
+			<label>Page 161</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0161"/>
+		</surface>
+		<surface xml:id="f161" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0162">
+			<label>Page 162</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0162"/>
+		</surface>
+		<surface xml:id="f162" ulx="0" uly="0" lrx="2365" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0163">
+			<label>Page 163</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0163"/>
+		</surface>
+		<surface xml:id="f163" ulx="0" uly="0" lrx="2631" lry="3649" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0164">
+			<label>Page 164</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0164"/>
+		</surface>
+		<surface xml:id="f164" ulx="0" uly="0" lrx="2365" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0165">
+			<label>Page 165</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0165"/>
+		</surface>
+		<surface xml:id="f165" ulx="0" uly="0" lrx="2631" lry="3661" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0166">
+			<label>Page 166</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0166"/>
+		</surface>
+		<surface xml:id="f166" ulx="0" uly="0" lrx="2325" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0167">
+			<label>Page 167</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0167"/>
+		</surface>
+		<surface xml:id="f167" ulx="0" uly="0" lrx="2631" lry="3672" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0168">
+			<label>Page 168</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0168"/>
+		</surface>
+		<surface xml:id="f168" ulx="0" uly="0" lrx="2325" lry="3672" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0169">
+			<label>Page 169</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0169"/>
+		</surface>
+		<surface xml:id="f169" ulx="0" uly="0" lrx="2631" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0170">
+			<label>Page 170</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0170"/>
+		</surface>
+		<surface xml:id="f170" ulx="0" uly="0" lrx="2325" lry="3673" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0171">
+			<label>Page 171</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0171"/>
+		</surface>
+		<surface xml:id="f171" ulx="0" uly="0" lrx="2631" lry="3625" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0172">
+			<label>Page 172</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0172"/>
+		</surface>
+		<surface xml:id="f172" ulx="0" uly="0" lrx="2324" lry="3636" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0173">
+			<label>Page 173</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0173"/>
+		</surface>
+		<surface xml:id="f173" ulx="0" uly="0" lrx="2452" lry="3697" sameAs="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0174">
+			<label>Page 174</label>
+			<graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2017:2017medren60856:0174"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="transcription">
+		<surface facs="#f001">
+			<line>﻿MORS COQVA</line>
+			<line/>
+			<line>EXLIBRIS COQVINARIS</line>
+			<line/>
+			<line>JOSEPH D VEHLING</line>
+			<line/>
+			<line>INV &amp; SC [LI] MCMXXIV</line>
+		</surface>
+		<surface facs="#f006">
+			<line>LIBRO DE ARTE COQUINARIA</line>
+			<line>COMPOSTO PER LORO EGREGIO</line>
+			<line>MAESTRO</line>
+			<line>MARTINO COQUO OLIM DEL</line>
+			<line>REVERENDISS MONSIGNOR</line>
+			<line>CAMORIENGO</line>
+			<line>ET PARTIARCHA DE AQUILEIA</line>
+			<line/>
+			<line>Per dare ad intender qual carne merita</line>
+			<line>andare arrosto, et quale allesso : Carne</line>
+			<line>grossa di boue, et de vacca vole esser allessa :</line>
+			<line>carne de vitello, [zioe], è, il [pecto] davanti, è</line>
+			<line>bono allesso, et la lonza arrosto, et le cosse</line>
+			<line>in polpette : Carne de castrone tutta, bo-</line>
+			<line>na allesso, salvo la spalla, et bona arrosto</line>
+			<line>et [etiadio] la cossa: Carne de porco non, è,</line>
+			<line>sana in nullo modo, pur la schina vole</line>
+			<line>esser arrosto [?], è, fresco con cepolle, et il</line>
+			<line>resto poi salare, o come ti piace : Carne de</line>
+			<line>Capretto, è, tutta bona allesso, et arrosto :</line>
+			<line>ma la parte de drieto, è, meglio arrosto :</line>
+			<line>similemente, è, l’agnello : Carne de capra</line>
+			<line>è bona del mese de jennaro con la agliata :</line>
+			<line>De la carne del cervo la parte [denanzi], è,</line>
+			<line>bona in brodo lardieri, [lonze] se potono far</line>
+			<line>arrosto, et le cosse son bone in [pastello] fecco</line>
+			<line>o, in polpette : similemente, è, bona la car-</line>
+			<line>ne del Capriolo : Carne de porco salvatico</line>
+			<line>vole esser in peperata, o, in [civero], o, in</line>
+			<line>brodo lardieri : Carne de lepore, è, tutta</line>
+		</surface>
+		<surface facs="#f007">
+			<line>bona arrosta, ma la parte de drieto, e, mi-</line>
+			<line>gliore, et la parte de nanzi, e bona in sapore</line>
+			<line>come, e dicto: Carne de Coniglio, e, meglio</line>
+			<line>arrosto, che in niuno altro modo, et li lumbi</line>
+			<line>sono la miglior parte de esso: Carne de urso</line>
+			<line>e, bona in pastelli :</line>
+			<line>Per cocer Capponi, Pavoni, Fasani, &amp; altre uolatili</line>
+			<line/>
+			<line>cicerone, over cisno, ocha, anetra, grua</line>
+			<line>ocha salvatica, airone, &amp; cicognia, vogliono</line>
+			<line>essere arrosto piene de aglio o cepolle et</line>
+			<line>altre bone chose: Pavoni, Fasani, coturnici</line>
+			<line>starne, Galline savatiche, Pedarelli, Qua</line>
+			<line>glie, Turdi, Merule, et tutti haltri boni ucelli</line>
+			<line>vogliono esser arrosto: Pollastir arrosto: Pipi-</line>
+			<line>oni son boni allesso ma arrosto ma son</line>
+			<line>migliori allesso con pepe &amp; salvia: Cappone</line>
+			<line>bono vole esser allesso, et quando e ben grasso</line>
+			<line>vole esser arrosto similement e la gallina:</line>
+			<line>Per havere ogni carne bella allesso:</line>
+			<line/>
+			<line>Chi vole haver bella carne allesso la deve</line>
+			<line>dividere in pezi come gli piace, &amp; per la</line>
+			<line>a mollo in aqua fresca perspatio de una</line>
+			<line>hora poi lavarla bene con aqua calda et</line>
+			<line>poi verru con aqua fresca et ponerla al foco</line>
+			<line>in uno caldaro dove non sti al stretto azio</line>
+			<line>che rimanghi piu bianca. Poi gli deve ponere</line>
+			<line>el sale secondo che e necessario et schiumar</line>
+			<line>la pene soptratutto et se il sale non fosse netto</line>
+		</surface>
+		<surface facs="#f008">
+			<line>pomilo in un pocha dacqua / &amp; in breve</line>
+			<line>spatio ferra deliguato / et converso in salimo -</line>
+			<line>ra, laquale come sia rasertata se potra poner</line>
+			<line>nel caldaro pianamente / azio che non ve</line>
+			<line>andassi la terra / che serra sul fondo : et</line>
+			<line>se la carne fusse vecchia et dura / spetial-</line>
+			<line>mente cappone et gallina / cavala parechie</line>
+			<line>volte dal aqua bollente / et rinfredala nel</line>
+			<line>aqua fresca / et in qu*esto modo serra pui bella</line>
+			<line>et pui presto cotta :</line>
+			<line>Per fare ogni bello arrosto</line>
+			<line>P[two lines]er fare bello arrosto de pollastri / de capponi /</line>
+			<line>de capretti / ó de qualunche altra carne *che</line>
+			<line>meriti essere arrosta : prima se fosse carne</line>
+			<line>grossa / fagli trare un boglio / excepto se fosse</line>
+			<line>de vitello giovine / et poi lardala / come se</line>
+			<line>fann*o li arrosti : se fosse cappone / fagiano / pol-</line>
+			<line>lastro / capretto / ó qualunchaltra carne / *che</line>
+			<line>meriti arrosto / fa *che sia ben netta / et polita /</line>
+			<line>poi mettila in aqua bollente / et subito cavala</line>
+			<line>fore / et ponila in aqua freda / et questo se</line>
+			<line>fa / azio *che sia piu bella / &amp; meglio se possa</line>
+			<line>conciarne : poi lardala / zio / &amp;? / con lardo bactuto /</line>
+			<line>&amp; altre chose convenienti odorifere onta bene* /</line>
+			<line>secondo el gusto del tuo signore : et drento se</line>
+			<line>te piace gli poni de bone herbe con prune secche /</line>
+			<line>marasche / et viscioli / ó in tempo / del agresto /</line>
+			<line>et altre chose simile : poi mittila ordinata-</line>
+			<line>mente nel speto / et ponila al foco / et daglilo</line>
+			<line>nel principio ad ascio ad ascio / perche sia bello</line>
+			<line>&amp; bono arrosto se deve cocere pian piano : et</line>
+		</surface>
+		<surface facs="#f009">
+			<line>quando* tipare / che* sia presso che* cotto / piglia un pane</line>
+			<line>bianco / et grattugialo menuto / et con esso pane</line>
+			<line>mescola tanto sale / quanto te pare necessario</line>
+			<line>per* lo arrosto: poi questa* mescolanza de pane /</line>
+			<line>&amp; de sale sopra lo arrosto in modo che* ne uadi</line>
+			<line>in ogni loco : poi dalli una bona calda de</line>
+			<line>foco / facendolo voltar presto : et in questo</line>
+			<line>modi haverai el tuo arrofto bello / et colorito :</line>
+			<line>De poi mandalo a Tabula / questo* piu presto* e meglio :~</line>
+			<line>Per fare perata de saluaticina :</line>
+			<line>Per fare bona peperata de Capriolo / o' lepore / o'</line>
+			<line>porco saluatico / ó daltra saluagina : piglia tanta*</line>
+			<line>aqua / quanto* vino roscio / et lavavi bene drento</line>
+			<line>la carne : dapoi passa quando* lavatura per* la sta-</line>
+			<line>migna agriongendoli tanto sale qesto* te parte* ne-</line>
+			<line>cessario : et poni a cocere la carne in la dicta</line>
+			<line>aqua / &amp; vino : et quando* e / cotta cacciala fora / et</line>
+			<line>violendone fare duo piatteli / tolli una libra et</line>
+			<line>meza de viapassa / et falla pistare molto bene* /</line>
+			<line>&amp; tolgi altrertanto pane tagliato in forte bruscu-</line>
+			<line>lato bene sopra la graticula / et bon mogliato in</line>
+			<line>bono aceto / pistalo insemi con dra'*(?) vuapassa / et</line>
+			<line>potendo hauere del sangue / ouevo la coratella</line>
+			<line>de la saluagina / sarebe optimo pestarla con</line>
+			<line>alte chose, lequale ben peste, fe deue diftempar</line>
+			<line>col beodo di questa* carne / con unporo de sampa* /</line>
+			<line>zio / e vino cotto in mofto / et collaceto doue</line>
+			<line>e' mollato elpane: dapoi passa afta materia</line>
+			<line>? la stamingna in una pignatta, quingendoli</line>
+			<line>spetue, pepero, garofai, et canella, ouer cinna</line>
+			<line>momo, ferundo te parra necessario: et quefta</line>
+		</surface>
+		<surface facs="#f010">
+			<line>peperata falla forte / ó dolce de aceto / et de</line>
+			<line>spetie, secundo el gusto com*mune / ó del tuo Segniore*</line>
+			<line>Dapoi falla bollire p*er spatio de meza hora</line>
+			<line>sopra la brascia / in modo che non habia piu</line>
+			<line>foco de una p*arte / ch*e dallaltra, menandola</line>
+			<line>spesse volte col cocchiaro : dapoi frigi la car-</line>
+			<line>ne predicta con bono lardo / et spartila no</line>
+			<line>li piattelli / et coprila de la p*refata peperata</line>
+			<line>laqual quanto / e / pui negra / tanto / e / pui bella : ~</line>
+			<line>Per fare brodo Lardieri de Salvaticina :</line>
+			<line>Per far brodo Lardiero de ogni carne salva-</line>
+			<line>cina: in prima lava la carne in bon vino</line>
+			<line>bianco mescolato con altrertanto aqua / et</line>
+			<line>passa la lavatura per la stamigna, con laqu[^a]le</line>
+			<line>ponirai á cocere la dicta carne, agiongendoui</line>
+			<line>bona qua*ntita de lardo / tagliato in pezola piccoli</line>
+			<line>come dadi da giucare / et ponigli etia*ndio bona</line>
+			<line>qua*ntitia de salina rotta con mano in tre ó</line>
+			<line>in quattro pezi: et q*ue n*on, e presso c*he cotta, po-</line>
+			<line>noraili de bone specie / come se dice de sopra :</line>
+			<line>Et p*er far chel brodo sia un poco spesso / togli</line>
+			<line>duo / o / tre cossi dous / detto la quantita / et</line>
+			<line>altettante fette di pane ben brusrulate al foro</line>
+			<line>et non troppo ó miente abrufrulate / ma solamente</line>
+			<line>secche / et sane poluere : poi rogli un poro de</line>
+			<line>brodo / et distemp*era q*ueste chose in feme / et poni-</line>
+			<line>le nol brodo / et possendo bauer del del sangues /</line>
+			<line>onero la coratella de la saluacina / pestla bon* /</line>
+			<line>et ponita á cocere nel p*erfato brodo el perra assai</line>
+			<line>migliore : Ma nota che se del dirto brodo tu</line>
+			<line>norrai far*e piatelli ; la carner vole asser tagliate</line>
+		</surface>
+		<surface facs="#f011">
+			<line>in pezi grossi de una libra ó di meza: et</line>
+			<line>volendone fare minestre / vole esser tagliata</line>
+			<line>minuta: Nota etiamdio / ch*e la carne dafor</line>
+			<line>peperata / et da far brodo lardiero se coce ín</line>
+			<line>la lavatura p*er no*n perdere quel sangue, che</line>
+			<line>esce fuori lávandola:</line>
+			<line>Per fare civero de salvaticina</line>
+			<line>Per far civero de carne salvarina: in p*rima</line>
+			<line>coci la carne in aqua miscolata con alere -</line>
+			<line>stanto aceto / et come / e / cocta / cavala fori</line>
+			<line>del brodo / azio ch*e se sciucchi : Asciutta che</line>
+			<line>ferra frigila in bono lardo : et volendo fare</line>
+			<line>duo prattelli del dicto civero / Togli una libra</line>
+			<line>de unapassa / et meza libra de amandole</line>
+			<line>senza mondarle / et pista bene queste chose :</line>
+			<line>Da poi togli una libra de pane tagliato i*n fette /</line>
+			<line>et siccato al foco / ma no*n troppo bruscolato / et</line>
+			<line>ponilo a mollo ín uno poco de vino roscio / et</line>
+			<line>pistalo con le p*ondicte chose / poi distemp*ale</line>
+			<line>col brodo de la dista carne / et passale per</line>
+			<line>la stamigna ín una pignatta / et ponila su</line>
+			<line>la brascia longi dal foco / facendola ben bollire</line>
+			<line>per ípatio de meza hora : dapoi vimetti zen -</line>
+			<line>- zevero / et cánella assai / che sia dolce / o /</line>
+			<line>forte secundo el cómune gusto / ó del tuo S*ignore.</line>
+			<line>Dapoi tolli und cipolla / et corila in una pi-</line>
+			<line>gnatta con bono lárdo tagliato menuto: et</line>
+			<line>come la cipolla / e / cotta pistala / et marinala</line>
+			<line>molto bene / et ponila in seme col lardo / nel</line>
+			<line>qual / e / cocta : et metti ogni chosa in la pignatta</line>
+			<line>nela qual s*ono le chose predicte / lassandola</line>
+		</surface>
+		<surface facs="#f012">
+			<line>bollire anchora unpoco piu : poi fa li piatteli</line>
+			<line>de la prefata carne / et de sopra glimetti deque*sto</line>
+			<line>civero / et mandali á Tabula:</line>
+			<line>Per far pastello secco de Ceruo, o, capriolo:</line>
+			<line>Per far pastello de carne de cervo ó de capri-</line>
+			<line>olo : In prima taglia la carne in peZi grossi co-</line>
+			<line>me due pugna / et fagli trare solamente un</line>
+			<line>buglio in aqua mischiata con altrestanto[?] areto</line>
+			<line>&amp; con sale secondo ilbisogno Dopo cavala for*</line>
+			<line>&amp; pomla in loucho che* lumor* del bru[^o]do* esca</line>
+			<line>fuori &amp; siscuicchi un pocho la dicta carne / Do-</line>
+			<line>po tagli pepero &amp; cánélla poverizata in* sieme*</line>
+			<line>giognendoli del sale secondo laquantita dela-</line>
+			<line>carne / &amp; tagli de buon lardo &amp; farne* lardo-</line>
+			<line>ni / avoltali nele spetie predicte &amp; lar-</line>
+			<line>da bene* per longo la dicta carne / Et habi de-</line>
+			<line>garosoli sani / &amp; piantane molti da ongni</line>
+			<line>canto in* la dicta carne / la quale etiam dio</line>
+			<line>vole essere] bene in* voltata in* le dicte spetie /</line>
+			<line>Dapai tagli de bona farina &amp; fa lacrosta un-</line>
+			<line>pocho piu grossa che* quella de le lasangne / Et</line>
+			<line>ad ogni pezzo di carne fa la sua spoglia dita-</line>
+			<line>le crostá &amp; ponila accocere nel forno ad agio</line>
+			<line>ad agio &amp; vole essere* ben catta / &amp; simili pastel-</line>
+			<line>li se possono conservare* quindici di / &amp; etía[??]on mese.</line>
+			<line/>
+			<line>Er far* pastelli de carne de vitello / ó Cappone / ó</line>
+			<line>qualunqua altra carne / ó de ucelli / In prima</line>
+			<line>togli carne magra quella quantita che* ti piace</line>
+			<line>&amp; battila bene minuta col coltello / &amp; tagli de</line>
+		</surface>
+		<surface facs="#f013">
+			<line>bon grasso de vitello / &amp; mischialo bene co*n la-</line>
+			<line>dicta carne / giongendovi de bone spetie secun-</line>
+			<line>do il co*m*muno gusto/ ó secundo il gusto del pat*ro-</line>
+			<line>ne: Dapoi fa le tue croste de paita secu*n*do bo*no?</line>
+			<line>lusanza di pastelli &amp; ponilo accocer*e nel forno /</line>
+			<line>Et come siáno cotti togli due rossi doua / De</line>
+			<line>bono agresto / Un pocho di brodo grasso / &amp; un po-</line>
+			<line>cho di zaforrano / &amp; batti bene queste cose</line>
+			<line>i*n seme / &amp; ponele nela pastello / Et se tu non sapes-</line>
+			<line>si far*e le croste cocelo nela padella como se fa*n-</line>
+			<line>no le torte/ Et nel dicto pastello si po metter*e</line>
+			<line>uno ó doi pollastri ó vero pippioni / ó capponi /</line>
+			<line>ó qualunq*ue altro ucello integro / ó tagliato .</line>
+			<line/>
+			<line>Er fare una crostata de pippioni / ó de pollastri ?</line>
+			<line>In prima fa bollir*e la carne um pocho / ch*e i*n*co-</line>
+			<line>minci esser*e presso ch*e cotta / Et poi tagliala i[striken]</line>
+			<line>in pezzi piccholi &amp; frigela co*n uno bono lardo /</line>
+			<line>Dapoi fá nella padella una crosta de pasta ?</line>
+			<line>grossa como / é / quella de li pastelli &amp; mitti-</line>
+			<line>gli dentro duna carne sopra giongendovi</line>
+			<line>de le prugnie secche / ó vero cerase / &amp; de poi</line>
+			<line>togli de bono agresto / un pocho de brodo gras-</line>
+			<line>so / &amp; octo ova &amp; batti bene queste cose in</line>
+			<line>seme / &amp; togli del petrosillo niagiorana / &amp;</line>
+			<line>menta / &amp; batti bene queste herbe col coltello /</line>
+			<line>&amp; dapoi metti tutte queste cose in una pignat-</line>
+			<line>ta &amp; ponila al focho / cuoce(?) / sopra la brascia</line>
+			<line>tanto chel cocchiaro se començie imbrat-</line>
+			<line>tare miscolandola continuamente col</line>
+		</surface>
+		<surface facs="#f014">
+			<line>ditto cocchiaro/ Da poi metti questo tal bro</line>
+			<line>detto sopra la ditta crostata/ &amp; da poi ponila</line>
+			<line>al focho come se fusse una torta/ &amp; como</line>
+			<line>pare che sia presa mandala ad tavola/ &amp;</line>
+			<line>fa che la ditta crostata sia dolce/ ó bruscha</line>
+			<line>secundo il comuno gusto/ ó como piace al -</line>
+			<line>patrone.</line>
+			<line/>
+			<line/>
+			<line>Et far un suffrutto de carne/ ó de pipioni/ ó</line>
+			<line>de pollastri/ ó capretto in prima nectali</line>
+			<line>molto bene &amp; tagliali in quarti / ó vero</line>
+			<line>in pezzi piccholi/ &amp; poneli in una pignatta</line>
+			<line>afrigere con bono lardo voltando spesse vol-</line>
+			<line>ge con cocchiaro/ Et quando la carne/ e/</line>
+			<line>quasi cotta getta fore la maior? parte del</line>
+			<line>grasso del pignatta/ Et dapoi togli de bo-</line>
+			<line>no agresto doi rosci dova/ un pocho pocho</line>
+			<line>de bono brodo &amp; de bone spetie &amp; mei?cho</line>
+			<line>la queste cose insi?eme con tanto zafra</line>
+			<line>no che siano gialle &amp; ponile in la dicta</line>
+			<line>pignatta in seme cola carne &amp; lascial</line>
+			<line>bollir anchora un pocho tanto che tutte</line>
+			<line>queste cose ti parano cotte Dapoi togli</line>
+			<line>un pocho pocho e petrosillo battuto me</line>
+			<line>nuto &amp; ponilo in seme col ditto soffritto in</line>
+			<line>un piattello &amp; mandolo ad tavola Et que-</line>
+			<line>sto tale soffrutto vole esser dolce ó agro</line>
+			<line>secundo il gusto comuno ó del patrone4.</line>
+			<line/>
+			<line>Et fare um pastello in una pitnatta Togli pri-</line>
+			<line>ma de la carne &amp; de bon grasso de vitello/</line>
+		</surface>
+		<surface facs="#f015">
+			<line>&amp; tagiala ben menuta &amp; mittila in* la pi -</line>
+			<line>gnatta / Et se con* la dicta carne e grasso ti -</line>
+			<line>pare ponerui pollastri / o peppioni fa como</line>
+			<line>te piace, / Et dápoi mitti lapignatta longi</line>
+			<line>dal focho sopra labrascia /Et quando comi*n-</line>
+			<line>cia abollir fa *che sia bone schiumata / da-</line>
+			<line>poi mittivi un pocha duua? paffa &amp; tagli [unclear x]</line>
+			<line>un pocha de cipolla tagliata mimuta &amp; frit-</line>
+			<line>ta con un pocho de bono lardo / &amp; mutila in*</line>
+			<line>seme collardo nela pignatta / Et quuando te</line>
+			<line>pare quasi cotta mottevi de bone spetie &amp;</line>
+			<line>della gresto / Et fe ta pare gli poi mettere uno</line>
+			<line>ó doi rosci dova battuti / Et quando il ditto</line>
+			<line>pastello / e / cotta mandalo ad tavola.</line>
+			<line/>
+			<line>Et fare un mi*rause catalano In prima togli pip-</line>
+			<line>pioni / ó pollastri / ó capponi &amp; acconciali como</line>
+			<line>si fanno arrosto / &amp; poneli arrostir nel speto /</line>
+			<line>&amp; quando sinao mezzi cotti cavali fare /</line>
+			<line>&amp; dividili in quarti / Et dapoi devidi ogni quar*-</line>
+			<line>to in qua [strike r]t[ˆr]o parti &amp; poneli in unal pignatta,</line>
+			<line>Da poi togli amandole bruschulate fetto lace-</line>
+			<line>nere calda / &amp; nettale con* un panno senza net-</line>
+			<line>tarle altramente / &amp; pistale / &amp; poi togli doi</line>
+			<line>ó tre ó quattro rosoi de óva / &amp; pista ogni cosa</line>
+			<line>con* ke amandole / &amp; di stemperale con* un pocho</line>
+			<line>de bono aceto &amp; de brodo / &amp; passale per la sta-</line>
+			<line>megna / &amp; da poi il metti nella ditta pginatta</line>
+			<line>sopra la carne giangendovi de bone spetio /</line>
+			<line>&amp; masime cannella* assai / zenzevero / &amp;</line>
+		</surface>
+		<surface facs="#f016">
+			<line>&amp; zuccharo affai/ Et da poi mutti la pionatta</line>
+			<line>sopra labrascia a falla bolluir per spatio du -</line>
+			<line>na hora menandola sempro colcocchiaro/</line>
+			<line>Et como sea cotto manda questa cotale Mr-</line>
+			<line>raule adtauola inpeattelii o uero i me -</line>
+			<line>nestre che era pio co uenienae.</line>
+			<line>Per fate pauoni ueftitti con tutte la sue pene</line>
+			<line>che corto para uiuo/ et butte foro pel betco :</line>
+			<line>Er fare pauoni uetstuti che perreno uiuui/ lnp-</line>
+			<line>ma fe uole amazaf il paune co una pe -</line>
+		</surface>
+	</sourceDoc>
+</TEI>
